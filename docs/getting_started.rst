@@ -6,7 +6,7 @@ En esta documentación se tratará el uso de Divúlgame por parte de las univers
 Esto es un salto a otra parte de la documentación
 :ref:`import-docs`.
 
-Subtítulo
+Sección 1
 ---------------
 
 Más saltos:
@@ -16,7 +16,7 @@ Más saltos:
 
 .. _in-rst:
 
-Sub subtítulo
+Subtítulo
 ~~~~~~~~~~~~~~~~~~~
 
 Esto es una ``caja`` in there::
@@ -26,7 +26,7 @@ Esto es una ``caja`` in there::
 
 .. note:: Se pueden usar notas que quedan bastante bien.
 
-Y aquí unos links:
+Sección 2:
 -------------------
 .. _a screencast: https://www.youtube.com/watch?feature=player_embedded&v=oJsUvBQyHBs
 .. _Python: https://www.python.org/
