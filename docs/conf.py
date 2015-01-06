@@ -34,19 +34,19 @@ intersphinx_mapping = {
 #html_static_path = ['_static']
 htmlhelp_basename = 'ReadTheDocsdoc'
 latex_documents = [
-    ('index', 'ReadTheDocs.tex', u'Read The Docs Documentation',
-     u'Eric Holscher, Charlie Leifer, Bobby Grace', 'manual'),
+    ('index', 'ReadTheDocs.tex', u'Divúlgame Universidades Documentación',
+     u'Adrián Muñoz', 'manual'),
 ]
 man_pages = [
-    ('index', 'read-the-docs', u'Read The Docs Documentation',
-     [u'Eric Holscher, Charlie Leifer, Bobby Grace'], 1)
+    ('index', 'read-the-docs', u'Divúlgame Universidades Documentación',
+     [u'Adrián Muñoz'], 1)
 ]
 
 exclude_patterns = [
     #'api' # needed for ``make gettext`` to not die.
 ]
 
-language = 'en'
+language = 'es'
 
 locale_dirs = [
     'locale/',
