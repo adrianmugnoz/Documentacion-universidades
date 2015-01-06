@@ -24,7 +24,7 @@ Esto es una ``caja`` in there::
     $ código
     $ más código
 
-.. nota:: Se pueden usar notas que quedan bastante bien.
+.. note:: Se pueden usar notas que quedan bastante bien.
 
 Y aquí unos links:
 -------------------
