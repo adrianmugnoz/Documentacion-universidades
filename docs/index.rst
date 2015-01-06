@@ -89,7 +89,7 @@ Designer Documentation
 
 .. _about-docs:
 
-About Read the Docs
+About Divúlgame Universidades
 -------------------
 
 .. toctree::
