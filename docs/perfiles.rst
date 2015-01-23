@@ -12,4 +12,7 @@ en el perfil del usuario.
 .. image:: http://i.imgur.com/yVyHZ4K.png
     :align: center
     :alt: alternate text
-
+    
+.. image:: http://i.imgur.com/CERLQzQ.png
+    :align: center
+    :alt: alternate text
