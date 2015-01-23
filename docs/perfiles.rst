@@ -23,6 +23,7 @@ mediante un icono de verificado.
     :align: center
     :alt: alternate text
     :target: http://i.imgur.com/yVyHZ4K.png
+    
 
 .. note:: Al colocar el cursor sobre el icono indica que se trata de una cuenta verificada.    
     
