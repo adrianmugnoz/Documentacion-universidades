@@ -4,8 +4,18 @@ Perfiles de usuario
 Read the Docs supports 3 different privacy levels on 2 different objects;
 Public, Protected, Private on Projects and Versions.
 
+Creación de un nuevo usuario
+--------------------------------
+
+Sistema de seguimiento
+--------------------------------
+
+Historias
+--------------------------------
+
 Cuentas Verificadas
 --------------------------------
+
 Con el fin de evitar suplantación de identidades se ha incorporado la verificación de cuentas, al igual que en Twitter,
 mediante un icono de verificado.
 
@@ -20,3 +30,5 @@ mediante un icono de verificado.
     :align: center
     :alt: alternate text
     :target: http://i.imgur.com/CERLQzQ.png
+    
+    
