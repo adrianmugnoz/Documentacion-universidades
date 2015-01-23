@@ -24,8 +24,8 @@ User Documentation
     :maxdepth: 2
 
     getting_started
-    versions
-    builds
+    perfiles
+    upload_link
     features
     support
     faq
