@@ -30,11 +30,11 @@ En el apartado de nuevas aparecerán las noticias inmediatamente al ser subidas 
 Universidades participantes
 -------------
 
-=============================================================  ===============
- Imagen                                                            Nombre
-=============================================================  ===============
-.. image:: http://muyinteresante.cat/cache/00/00/media_thumb-sub_logo-41.png  UPCT
-.. image:: http://muyinteresante.cat/cache/00/00/media_thumb-sub_logo-42.png  UMU
-.. image:: http://muyinteresante.cat/cache/00/00/media_thumb-sub_logo-54.png  UNIZAR
-=============================================================  ===============
+==============================================================================  ===============
+ Imagen                                                                              Nombre
+==============================================================================  ===============
+.. image:: http://muyinteresante.cat/cache/00/00/media_thumb-sub_logo-41.png         UPCT
+.. image:: http://muyinteresante.cat/cache/00/00/media_thumb-sub_logo-42.png         UMU
+.. image:: http://muyinteresante.cat/cache/00/00/media_thumb-sub_logo-54.png         UNIZAR
+==============================================================================  ===============
 
