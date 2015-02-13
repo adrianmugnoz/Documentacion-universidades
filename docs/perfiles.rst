@@ -37,6 +37,9 @@ Preferencias Básicas
 Sistema de seguimiento
 --------------------------------
 |following|
+
+Desde el perfil de un usuario se le puede seguir, o ignorar.
+
 Historias
 --------------------------------
 
