@@ -36,7 +36,7 @@ Preferencias Básicas
 
 Sistema de seguimiento
 --------------------------------
-
+|following|
 Historias
 --------------------------------
 
@@ -46,18 +46,11 @@ Cuentas Verificadas
 Con el fin de evitar suplantación de identidades se ha incorporado la verificación de cuentas, al igual que en Twitter,
 mediante un icono de verificado.
 
-.. image:: http://i.imgur.com/yVyHZ4K.png
+.. image:: http://i.imgur.com/TMoyCaw.gif
     :align: center
-    :alt: alternate text
-    :target: http://i.imgur.com/yVyHZ4K.png
+    :alt: perfiles verificadosi
+    :target: http://i.imgur.com/TMoyCaw.gif
     
-
-.. note:: Al colocar el cursor sobre el icono indica que se trata de una cuenta verificada.    
-    
-.. image:: http://i.imgur.com/CERLQzQ.png
-    :align: center
-    :alt: alternate text
-    :target: http://i.imgur.com/CERLQzQ.png
     
 
 .. |register| image:: http://i.imgur.com/oQREvI3.png
@@ -66,3 +59,6 @@ mediante un icono de verificado.
 .. |profile_params| image:: http://i.imgur.com/owTU8Vi.png 
 .. |preferences| image:: http://i.imgur.com/gu80SYS.png
 .. |redes_sociales| image:: http://i.imgur.com/K9yKxuF.png
+.. |following| image:: http://i.imgur.com/uvXLCLO.gif
+
+
