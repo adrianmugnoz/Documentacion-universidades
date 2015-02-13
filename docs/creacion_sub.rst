@@ -40,6 +40,7 @@ Características
 Límites de entradilla
 ~~~~~~~~~~~~~~~~~~~
 |limits|
+
 - Longitud mínima: mínima cantidad de caracteres permitida en la entradilla.
 - Longitud máxima: máxima cantidad de caracteres permitida en la entradilla.
 - Permitir párrafos: habilitando esta opción, se permiten los párrafos en la entradilla.
@@ -47,12 +48,14 @@ Límites de entradilla
 Mensajes
 ~~~~~~~~~~~~~~~~~~~
 |messages|
+
 - Reglas para el envío: texto que aparecerá a la hora de enviar un contenido al sub.
 - Mensaje barra lateral: mensaje que aparecerá en la barra lateral, que puede ser utilizado de manera informativa por el gestor del sitio.
 
 Logo
 ~~~~~~~~~~~~~~~~~~~
 |logo|
+
 Selección del logo del sub.
 
 
