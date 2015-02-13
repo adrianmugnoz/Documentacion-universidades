@@ -16,6 +16,7 @@ En la portada estarán los noticias que hayan recibido más de 5 votos.
 
 
 
+
 Nuevas
 -------------
 
@@ -26,6 +27,8 @@ En el apartado de nuevas aparecerán las noticias inmediatamente al ser subidas 
     :alt: Nuevas universidades Divúlgame
     :target: http://i.imgur.com/26cY5nI.png
    
+
+
 
 Universidades participantes
 -------------
