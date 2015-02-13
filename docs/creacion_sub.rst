@@ -47,4 +47,3 @@ una cuenta de correo de la institución que representa para verificar que se tra
 .. |limits| image:: http://i.imgur.com/pHiZMJu.png
 .. |messages| image:: http://i.imgur.com/ylUa3Wx.png
 .. |logo| image:: http://i.imgur.com/OrpYglt.png
-   :trim:
