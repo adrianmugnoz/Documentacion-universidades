@@ -15,3 +15,4 @@ User Documentation
     creacion_sub
     edicion_universidades
     usos
+    faq
