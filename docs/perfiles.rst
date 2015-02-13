@@ -6,7 +6,7 @@ Creación de un nuevo usuario
 --------------------------------
 |registrar|
 
-Para crear un nuevo usuario, únicamente tendremos que pulsar en **registrar** en la barra de navegación, y veremos los
+Para crear un nuevo usuario, únicamente tendremos que pulsar en **registrarse** en la barra de navegación, y veremos los
 siguientes campos a rellenar en pantalla:
 
 |register|
